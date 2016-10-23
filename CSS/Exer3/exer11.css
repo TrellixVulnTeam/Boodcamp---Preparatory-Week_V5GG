@@ -1,0 +1,28 @@
+header {
+	background-color: blue;
+}
+
+.temp1 {
+	color: yellow;
+	font-size: 150%;
+}
+
+.temp2 {
+	color: white;
+}
+
+.temp4 {
+	color: green;
+}
+
+h2 {
+	background-color: orange;
+}
+
+b {
+	color: blue;
+}
+
+.temp3 {
+	font-style: italic;
+}

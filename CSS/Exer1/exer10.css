@@ -1,0 +1,14 @@
+h1{
+	text-align:center;
+}
+
+table, th, tr, td{
+	width: 100%;
+	border: 1px solid black;	
+}
+	
+
+#temp {
+	background-color:orange; 
+	text-align:center;
+}

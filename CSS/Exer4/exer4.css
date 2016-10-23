@@ -1,0 +1,22 @@
+nav {
+	background-color: orange;
+	text-align: center;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 250%;
+}
+
+h2 {
+	color: blue;
+	font-size: 150%;
+}
+
+footer {
+	background-color: orange;
+	text-align: center;
+}
